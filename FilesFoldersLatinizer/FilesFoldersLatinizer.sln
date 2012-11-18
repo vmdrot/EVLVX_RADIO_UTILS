@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesFoldersLatinizer", "FilesFoldersLatinizer\FilesFoldersLatinizer.csproj", "{BF1ADAE9-3974-4321-9A9D-3CB5B11A9F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatinizerLib", "LatinizerLib\LatinizerLib.csproj", "{E7AE1DE3-BC69-44FF-8232-45C6DAD48716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatinizerLibTests", "LatinizerLibTests\LatinizerLibTests.csproj", "{8FAB0D9C-AF3E-43CA-ACAD-87840ED6B667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesFolderLatinizerUI", "FilesFolderLatinizerUI\FilesFolderLatinizerUI.csproj", "{EB125D21-7844-4260-A328-2A22429EBEC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF1ADAE9-3974-4321-9A9D-3CB5B11A9F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1ADAE9-3974-4321-9A9D-3CB5B11A9F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1ADAE9-3974-4321-9A9D-3CB5B11A9F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1ADAE9-3974-4321-9A9D-3CB5B11A9F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AE1DE3-BC69-44FF-8232-45C6DAD48716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AE1DE3-BC69-44FF-8232-45C6DAD48716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AE1DE3-BC69-44FF-8232-45C6DAD48716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AE1DE3-BC69-44FF-8232-45C6DAD48716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAB0D9C-AF3E-43CA-ACAD-87840ED6B667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAB0D9C-AF3E-43CA-ACAD-87840ED6B667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAB0D9C-AF3E-43CA-ACAD-87840ED6B667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAB0D9C-AF3E-43CA-ACAD-87840ED6B667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB125D21-7844-4260-A328-2A22429EBEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB125D21-7844-4260-A328-2A22429EBEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB125D21-7844-4260-A328-2A22429EBEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB125D21-7844-4260-A328-2A22429EBEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
